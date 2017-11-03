@@ -1,7 +1,9 @@
-$ tar -xvf ./hdc-0.11-new.img.tar.gz 
+### Decompress the img file
+
+`$ tar -xvf ./hdc-0.11-new.img.tar.gz`
 
 
-----------
+========= Original README =======
 
 linux-0.11 development environment(linux-based)
 	
