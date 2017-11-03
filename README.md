@@ -1,6 +1,10 @@
-### Decompress the img file
+Decompress the img file
 
 `$ tar -xvf ./hdc-0.11-new.img.tar.gz`
+
+
+
+
 
 
 ========= Original README =======
